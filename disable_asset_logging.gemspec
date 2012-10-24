@@ -20,11 +20,15 @@ Gem::Specification.new do |s|
     ".document",
     ".rspec",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "disable_asset_logging.gemspec",
     "lib/disable_asset_logging.rb",
+    "lib/disable_asset_logging/middleware.rb",
+    "lib/disable_asset_logging/railtie.rb",
     "spec/disable_asset_logging_spec.rb",
     "spec/spec_helper.rb"
   ]
