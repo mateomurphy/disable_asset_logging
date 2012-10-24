@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "disable_asset_logging"
   gem.homepage = "http://github.com/mateomurphy/disable_asset_logging"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{TODO: disables asset logging}
+  gem.description = %Q{TODO: disables asset logging in the development log}
   gem.email = "mateo.murphy@gmail.com"
   gem.authors = ["Mateo Murphy"]
   # dependencies defined in Gemfile
