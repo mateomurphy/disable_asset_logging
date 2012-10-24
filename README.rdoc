@@ -2,6 +2,7 @@
 
 Disables the verbose asset logging in the dev environment
 
+Based on a github comment by https://github.com/macournoyer
 
 == Copyright
 
